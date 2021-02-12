@@ -1,1 +1,1 @@
-# pkgs_armchaAutoLinkTextView
+# armcha:AutoLinkTextView
