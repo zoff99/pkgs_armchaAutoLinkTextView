@@ -1,0 +1,7 @@
+install:
+   - echo "installing ..."
+   - pwd
+   - id -a
+   - ls -al
+   - mkdir -p ~/.m2/repository/com/github/armcha/AutoLinkTextView
+   - cp maven-metadata.xml ~/.m2/repository/com/github/armcha/AutoLinkTextView/
