@@ -3,5 +3,9 @@ install:
    - pwd
    - id -a
    - ls -al
-   - mkdir -p ~/.m2/repository/com/github/armcha/AutoLinkTextView
+   - mkdir -p ~/.m2/repository/com/github/armcha/AutoLinkTextView/0.3.0
    - cp maven-metadata.xml ~/.m2/repository/com/github/armcha/AutoLinkTextView/
+   - cp AutoLinkTextView-0.3.0.aar ~/.m2/repository/com/github/armcha/AutoLinkTextView/
+   - cp AutoLinkTextView-0.3.0.pom ~/.m2/repository/com/github/armcha/AutoLinkTextView/
+
+
